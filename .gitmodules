@@ -1,0 +1,3 @@
+[submodule "deps/openpbs"]
+	path = deps/openpbs
+	url = https://github.com/openpbs/openpbs.git
